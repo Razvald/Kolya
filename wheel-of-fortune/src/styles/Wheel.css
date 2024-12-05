@@ -87,8 +87,8 @@ button:disabled {
 
 .wheel-pointer {
    position: absolute;
-   top: 60%; /* Половина высоты колеса */
-   left: 10px; /* Смещаем на 20px влево, чтобы язык был на 9 часах */
+   top: 65%; /* Половина высоты колеса */
+   left: 15px; /* Смещаем на 20px влево, чтобы язык был на 9 часах */
    border-left: 10px solid transparent;
    border-right: 10px solid transparent;
    border-bottom: 20px solid red; /* Цвет язычка */
